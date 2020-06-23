@@ -1,2 +1,2 @@
-# Robotic-vending-dispenser
-Robotic vending dispenser is a machine which can dispense different types of flavored juices. Customer can select the juices using graphical user interface and after the completion of online payment the control will goes to he hardware part
+# Robotic-vending-dispenser(internship project)
+Working on juice vending dispenser, which is a hygienic machine, which can make the juices and dispense the juice without human interference with payment gateway, as per the customer inputs. customer can interact with machine through user interface(UI).
