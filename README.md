@@ -3,6 +3,6 @@ Working on juice vending dispenser, which is a hygienic machine, which can make 
 
 skills:
 
-Software section: we are used Python script for designing the dispenser, in software part which is front end, python script PyQt5 modules ,Qt designer software tool we are used for creating effective user interface(UI).
+Software section: we are used Python script for designing the dispenser, in software part which is front end, PyQt5 libraries, modules, Qt designer software tool we are used for creating effective user interface(UI).
 
 Hardware section: PyQt5 modules, time module, PCA 9685 libraries, setup tools and GPIO libraries used for designing the hardware part which is back end.
