@@ -25,4 +25,4 @@ Skills Used:
 7.HTML
 8.CSS
 9.Javascript
-PayTMpayment gateway Integration
+10.PayTMpayment gateway Integration
